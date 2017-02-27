@@ -24,7 +24,7 @@ En este módulo se encuentran todas las funcionalidades complejas de este modulo
 * **Documentación de la Arquitectura**
     - Arquitectura de la solucion : Deployment Diagram    
 * **Documentacion Web**
-    - Definicion de las reglas de navegacion de las interfaces de usuario.
+    - Definicion de las reglas de navegacion de las interfaces de usuario. Ejemplo ![navigaton](http://ausweb.scu.edu.au/aw04/papers/refereed/kong/WAAF_Fig5_User_interface_flow_diagram.gif)
     - Scripts necesarios para que la web puede ser desplegado y/o usado
 * **Documentación de Operaciones o Dependencias**
     - Documento que lista y explica aspectos tecnicos y/o funcionales que deben cumplirse para que la aplicacion se ejecute con normalidad: cron linux, ftp, sftp, apis internos, apis externos, base de datos,etc
