@@ -14,8 +14,10 @@ En este módulo se encuentran todas las funcionalidades complejas de este modulo
 
 # Documentos
 
+* **Funcionalidades**
+    - Lista todas las funcionalidades del modulo. Cada funcionalidad debe tener una descripción "funcional" valga la redundancia. La parte técnica de cada funcionalidad se profundizará en los siguientes puntos.
 * **Manual de Usuario**
-    - Lista todas las funcionalidades del modulo , cada una con sus guia de como usarlas adecuadamente. Estas funcionalidades estan relacionadas a las descritas en el punto **Documentacion del Modelo de datos**
+    - Lista todas las funcionalidades del modulo , cada una con una guía de como usarlas adecuadamente(screenshot, videoturial, imagenes, etc).
 * **Documentación de Api**
     - Descripcion de todos los enpoints, request, response, errores, etc
 * **Documentación de Instalación**
@@ -26,13 +28,12 @@ En este módulo se encuentran todas las funcionalidades complejas de este modulo
     - Arquitectura de la solucion : Deployment Diagram    
 * **Documentacion Web**
     - Definicion de las reglas de navegacion de las interfaces de usuario. Ejemplo [navigaton](http://ausweb.scu.edu.au/aw04/papers/refereed/kong/WAAF_Fig5_User_interface_flow_diagram.gif)
-    - Scripts necesarios para que la web puede ser desplegado y/o usado : Roles, Usuarios, Permisos, etc
 * **Documentación de Operaciones o Dependencias**
-    - Documento que lista y explica aspectos tecnicos y/o funcionales que deben cumplirse para que la aplicacion se ejecute con normalidad: cron linux, ftp, sftp, apis internos, apis externos, base de datos,etc
+    - Documento que lista y explica aspectos tecnicos y/o funcionales que deben cumplirse para que la aplicacion se ejecute con normalidad: cron linux, ftp, sftp, apis internos, apis externos, base de datos,Roles, Usuarios, Permisos,etc
 * **Documentacion del Modelo de datos**
     - Diagrama Global de las Tablas necesarias en la solución
-    - Se listan las **funcionalidades** que el modulo tiene. Por cada funcionalidad se documentara:
-        - Diagrama de Tablas necesarias en la solución
+    - Por cada **funcionalidad** descrita en el primer punto se documentara:
+        - Diagrama de Tablas implicadas en la funcionalidad.
         - Descripcion funcional de cada tabla
 * **Documentación de Reglas de Negocio**
     - Documento que lista todas las reglas de negocio. El formato sera un excel con 2 columnas: 
