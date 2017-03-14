@@ -15,6 +15,7 @@ En este módulo se encuentran todas las funcionalidades complejas de este modulo
 # Documentos
 
 * **Manual de Usuario**
+    - Lista todas las funcionalidades del modulo , cada una con sus guia de como usarlas adecuadamente. Estas funcionalidades estan relacionadas a las descritas en el punto **Documentacion del Modelo de datos**
 * **Documentación de Api**
     - Descripcion de todos los enpoints, request, response, errores, etc
 * **Documentación de Instalación**
@@ -30,7 +31,7 @@ En este módulo se encuentran todas las funcionalidades complejas de este modulo
     - Documento que lista y explica aspectos tecnicos y/o funcionales que deben cumplirse para que la aplicacion se ejecute con normalidad: cron linux, ftp, sftp, apis internos, apis externos, base de datos,etc
 * **Documentacion del Modelo de datos**
     - Diagrama Global de las Tablas necesarias en la solución
-    - Se listan las funcionalidades que el modulo tiene. Por cada funcionalidad se documentara:
+    - Se listan las **funcionalidades** que el modulo tiene. Por cada funcionalidad se documentara:
         - Diagrama de Tablas necesarias en la solución
         - Descripcion funcional de cada tabla
 * **Documentación de Reglas de Negocio**
