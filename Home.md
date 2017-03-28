@@ -31,13 +31,13 @@ En este módulo se encuentran todas las funcionalidades complejas de este modulo
     - Documento que muestra las configuraciones necesarias para que cualquier miembro del equipo pueda ejecutar la aplicacion en su entorno local.
 * **Documentación de la Arquitectura**
     - Arquitectura de la solucion : Deployment Diagram    
-* **Documentacion Web**
+* [Documento Web](./documento-web/Home)
     - Definicion de las reglas de navegacion de las interfaces de usuario o User interface flow diagram para que cualoquier miembor del equipo pueda saber los links de las paginas del sistema.
     - Optimo : Usar el diagramador **Dia** y exportar : una imagen del diagrama + archivo .dia para que otro miembro del equipo pueda editar el diagrama.
     - No optimo pero rapido : Usar como diagramador Google Draw y exportar la imagen
 * **Documentación de Operaciones o Dependencias**
     - Documento que lista y explica aspectos tecnicos y/o funcionales que deben cumplirse para que la aplicacion se ejecute con normalidad: cron linux, ftp, sftp, apis internos, apis externos, base de datos,Roles, Usuarios, Permisos,etc
-* [Documento del modelo de Datos](./documento-modelo/datos/Home)
+* [Documento del modelo de Datos](./documento-modelo-datos/Home)
     - Diagrama Global de las Tablas necesarias en la solución
     - Por cada **funcionalidad** descrita en el primer punto se documentara:
         - Descripcion funcional de cada tabla
