@@ -32,7 +32,9 @@ En este módulo se encuentran todas las funcionalidades complejas de este modulo
 * **Documentación de la Arquitectura**
     - Arquitectura de la solucion : Deployment Diagram    
 * **Documentacion Web**
-    - Definicion de las reglas de navegacion de las interfaces de usuario. Ejemplo [navigaton](http://ausweb.scu.edu.au/aw04/papers/refereed/kong/WAAF_Fig5_User_interface_flow_diagram.gif)
+    - Definicion de las reglas de navegacion de las interfaces de usuario o User interface flow diagram . Ejemplo [01](https://dvg5hr78c8hf1.cloudfront.net/2016/06/16/18/16/22/5907d80c-ebb2-4a28-8105-d36bef739e02/wireframeUX.png) , [02](https://i-msdn.sec.s-msft.com/dynimg/IC533766.png) 
+    - Optimo : Usar el diagramador **Dia** y exportar : una imagen del diagrama + archivo .dia para que otro miembro del equipo pueda editar el diagrama.
+    - No optimo pero rapido : Usar como diagramador Google Draw
 * **Documentación de Operaciones o Dependencias**
     - Documento que lista y explica aspectos tecnicos y/o funcionales que deben cumplirse para que la aplicacion se ejecute con normalidad: cron linux, ftp, sftp, apis internos, apis externos, base de datos,Roles, Usuarios, Permisos,etc
 * **Documentacion del Modelo de datos**
