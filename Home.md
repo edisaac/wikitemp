@@ -23,6 +23,10 @@ En este módulo se encuentran todas las funcionalidades complejas de este modulo
 
 * **Manual de Usuario**
     - Lista todas las funcionalidades del modulo , cada una con una guía de como usarlas adecuadamente(screenshot, videoturial, imagenes, etc).
+
+* **Repositorios Bitbucket**
+   - Lista todos los repositorios bitbucket usados en este módulo.
+
 * [Documento del API](./documento-api/Home)
     - Descripcion de todos los enpoints, request, response, errores, etc
 * **Documentación de Instalación**
