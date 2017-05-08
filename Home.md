@@ -41,6 +41,8 @@ En este módulo se encuentran todas las funcionalidades complejas de este modulo
     - No optimo pero rapido : Usar como diagramador Google Draw y exportar la imagen
 * **Documentación de Operaciones o Dependencias**
     - Documento que lista y explica aspectos tecnicos y/o funcionales que deben cumplirse para que la aplicacion se ejecute con normalidad: cron linux, ftp, sftp, apis internos, apis externos, base de datos,Roles, Usuarios, Permisos,etc
+* **Documentación de Tips de Desarrollo**
+    - Snippets, tips, consideraciones, etc
 * [Documento del modelo de Datos](./documento-modelo-datos/Home)
     - Diagrama Global de las Tablas necesarias en la solución
     - Por cada **funcionalidad** descrita en el primer punto se documentara:
