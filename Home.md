@@ -4,10 +4,6 @@
 
 En este módulo se encuentran todas las funcionalidades complejas de este modulo.
 
-# Version
-
->1.1
-
 # Screenshot
 
 ![screenshot.png](http://www.drbob42.com/gif/dbwebwiz.gif)
