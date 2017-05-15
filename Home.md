@@ -35,7 +35,7 @@ En este módulo se encuentran todas las funcionalidades complejas de este modulo
     - Definicion de las reglas de navegacion de las interfaces de usuario o User interface flow diagram para que cualoquier miembor del equipo pueda saber los links de las paginas del sistema.
     - Optimo : Usar el diagramador **Dia** y exportar : una imagen del diagrama + archivo .dia para que otro miembro del equipo pueda editar el diagrama.
     - No optimo pero rapido : Usar como diagramador Google Draw y exportar la imagen
-* **Documentación de Operaciones o Dependencias**
+* **Documentación de Operaciones Requeridas**
     - Documento que lista y explica aspectos tecnicos y/o funcionales que deben cumplirse para que la aplicacion se ejecute con normalidad: cron linux, ftp, sftp, apis internos, apis externos, base de datos,Roles, Usuarios, Permisos,etc
 * **Documentación de Tips de Desarrollo**
     - Snippets, tips, consideraciones, etc
