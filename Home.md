@@ -28,7 +28,7 @@ En este módulo se encuentran todas las funcionalidades complejas de este modulo
 * **Documentación de Instalación**
     - Documentacion que muestra las configuraciones necesarias para poder desplegar esta aplicacion en cualquier ambiente como qa, o prod.
 * **Documentación de Configuracion de Workspace**
-    - Documento que muestra las configuraciones necesarias para que cualquier miembro del equipo pueda ejecutar la aplicacion en su entorno local.
+    - Documento que muestra las configuraciones necesarias para que cualquier miembro del equipo pueda ejecutar la aplicaciones en su entorno local.
 * **Documentación de la Arquitectura**
     - Arquitectura de la solucion : Deployment Diagram    
 * [Documento Web](./documento-web/Home)
