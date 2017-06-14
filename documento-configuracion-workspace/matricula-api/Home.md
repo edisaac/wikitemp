@@ -13,11 +13,9 @@ Matricula API
 
 El codigo fuente del api de matricula se encuentra en el repositorio:
 
-[https://bitbucket.org/utecsup/matricula-api](https://bitbucket.org/utecsup/matricula-api)
-
-Clonar este repositorio:
-
 [https://bitbucket.org/utecsup/matricula-api.git](https://richard_leon@bitbucket.org/utecsup/matricula-api.git)
+
+El cual debemos clonar.
 
 ## Dependencias
 
