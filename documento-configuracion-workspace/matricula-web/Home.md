@@ -17,22 +17,27 @@ El codigo fuente del api de matricula se encuentra en el repositorio:
 
 El cual debemos clonar.
 
-## Dependencias
+## Dependencias NPM
 
-Para poder ejecutar el api usando el eclipse o por linea de comandos, se necesita instalar varios proyectos maven  (parents, spring boot,database drivers, etc)
+Para poder ejecutar este modulo web es necesario instalar las dependencias listadas en el arhivo package.json usando el siguiente comandos
 
-Los pasos estan en este link:
-
-[https://bitbucket.org/utecsup/api-project-dependencies/wiki/Home](https://bitbucket.org/utecsup/api-project-dependencies/wiki/Home)
-
+```
+npm install
+```
 
 ## Ejecución
 
-- Importar el repositorio clonado como proyecto maven en el eclipspe
-- Ubicar la clase root del proyecto spring boot. Debe ser una clase con un metodo main.
-- Ejecutar esta clase como cualquier otra clase java : Run as Java Aplicacition (Opcion del eclipse)
+Ejcutar el comando :
 
-Si no hay errores en el log de el eclipse, el api ya podria ser consumida desde un cliente rest como soap-ui, postman de chrome o restclient de firefox.
+```
+npm run start:local
+```
+
+Si no hay errores en el log la web ya podria ser accedida desde un browser estandard:
+
+[http://localhost:7000](http://localhost:7000)
+
+Mas detalle sobre las urls de este modulo estan documentadas en la seccion : **Documento Web**
 
 # Colaboradores
 *  Alan Turin

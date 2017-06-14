@@ -17,7 +17,7 @@ El codigo fuente del api de matricula se encuentra en el repositorio:
 
 El cual debemos clonar.
 
-## Dependencias
+## Dependencias Maven
 
 Para poder ejecutar el api usando el eclipse o por linea de comandos, se necesita instalar varios proyectos maven  (parents, spring boot,database drivers, etc)
 
@@ -26,7 +26,7 @@ Los pasos estan en este link:
 [https://bitbucket.org/utecsup/api-project-dependencies/wiki/Home](https://bitbucket.org/utecsup/api-project-dependencies/wiki/Home)
 
 
-## Ejecución
+## Ejecución del Api usando el ide Eclipse
 
 - Importar el repositorio clonado como proyecto maven en el eclipspe
 - Ubicar la clase root del proyecto spring boot. Debe ser una clase con un metodo main.
