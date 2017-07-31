@@ -22,35 +22,31 @@ En este módulo se encuentran todas las funcionalidades complejas de este modulo
 
 * **Repositorios Bitbucket**
     - Lista todos los repositorios bitbucket usados en este módulo.
-
-* [Documento del API](./documento-api/Home)
-    - Descripcion de todos los enpoints, request, response, errores, etc
-* **Documentación de Instalación**
-    - Documentacion que muestra las configuraciones necesarias para poder desplegar esta aplicacion en cualquier ambiente como qa, o prod.
-* [Documentación de Configuracion de Workspace](./documento-configuracion-workspace/Home)
-    - Documento que muestra las configuraciones necesarias para que del equipo pueda ejecutar la aplicaciones en su entorno local.
+    
 * **Documentación de la Arquitectura**
-    - Arquitectura de la solucion : Deployment Diagram    
+    - Arquitectura de la solucion : Deployment Diagram  por funcionalidad 
+
 * [Documentacion Web](./documento-web/Home)
-    - Definicion de las reglas de navegacion de las interfaces de usuario o User interface flow diagram para que cualoquier miembor del equipo pueda saber los links de las paginas del sistema.
+    - Definicion de las reglas de navegacion de las interfaces de usuario o User interface flow diagram para que cualoquier miembor del equipo pueda saber los links de las paginas del sistema por funcionalidad.
     - Optimo : Usar el diagramador **Dia** y exportar : una imagen del diagrama + archivo .dia para que otro miembro del equipo pueda editar el diagrama.
     - No optimo pero rapido : Usar como diagramador Google Draw y exportar la imagen. Problema : El diagrama estar en la cuenta de una persona.
 
-* **Documentación de Recursos Asociados**
-    - Listas todos los recursos internos y externos que son requeridos por el proyecto.
+* [Documentación de Recursos Asociados](./documento-operaciones-dependencias/Home)
+    - Listas todos los recursos internos y externos que son requeridos por el proyecto por cada funcionalidad.
 
 * **Documentación de Operaciones Requeridas**
-    - Documento que lista y explica aspectos tecnicos y/o funcionales que deben cumplirse para que la aplicacion se ejecute con normalidad: cron linux, ftp, sftp, apis internos, apis externos, base de datos,Roles, Usuarios, Permisos,etc
-* **Documentación de Tips de Desarrollo**
-    - Snippets, tips, consideraciones, etc
+    - Documento que lista y explica aspectos tecnicos y/o no funcionales que deben cumplirse para que la aplicacion se ejecute con normalidad: cron linux, ftp, sftp, apis internos, apis externos, base de datos,Roles, Usuarios, Permisos,etc por funcionalidad.
+
 * [Documento del modelo de Datos](./documento-modelo-datos/Home)
     - Diagrama Global de las Tablas necesarias en la solución
     - Por cada **funcionalidad** descrita en el primer punto se documentara:
         - Descripcion funcional de cada tabla
+
 * **Documentación de Reglas de Negocio**
     - Por cada **funcionalidad** descrita en el primer punto se listan todas las reglas de negocio. El formato sera un excel con 2 columnas:
         - nombre_regla
         - descripcion_regla.
+
 * [Proyectos Asociados](./proyectos/Home)
     - Diferentes proyectos en los que esta solucion ha sido creada o modificada. En este punto se listarán los proyectos en los que se ha modificado este modulo. Cada proyecto a su vez tendra la siguiente informacion :
         - Documento Funcional
