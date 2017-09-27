@@ -29,13 +29,14 @@ En este módulo se encuentran todas las funcionalidades complejas de este modulo
 * [Documentacion Web](./documento-web/Home)
     - Definicion de las reglas de navegacion de las interfaces de usuario o User interface flow diagram para que cualoquier miembor del equipo pueda saber los links de las paginas del sistema por funcionalidad.
 
-* [Documentación de Recursos Asociados](./documento-operaciones-dependencias/Home)
-    - Listas todos los recursos internos y externos que son requeridos por el proyecto por cada funcionalidad : apis, base de datos, etc
+* [Documentación de Recursos Necesarios](./documento-operaciones-dependencias/Home)
+    - Lista todos los recursos internos y externos que son requeridos por el proyecto por cada funcionalidad : cron linux, ftp, sftp, apis internos, apis externos, base de datos,Roles, Usuarios, Permisos,configuraciones google, configuraciones facebook, analytics, etc
 
 * [Documento del modelo de Datos](./documento-modelo-datos/Home)
     - Diagrama Global de las Tablas necesarias en la solución
     - Por cada **funcionalidad** descrita en el primer punto se documentara:
         - Descripcion funcional de cada tabla
+
 
 * **Documentación de Reglas de Negocio**
     - Por cada **funcionalidad** descrita en el primer punto se listan todas las reglas de negocio. El formato sera un excel con 2 columnas:
