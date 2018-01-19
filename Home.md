@@ -20,8 +20,8 @@ En este módulo se encuentran todas las funcionalidades complejas de este modulo
 * **Manual de Usuario**
     - Lista todas las funcionalidades del modulo , cada una con una guía de como usarlas adecuadamente(screenshot, videoturial, imagenes, etc).
 
-* **Repositorios Bitbucket**
-    - Lista todos los repositorios bitbucket usados en este módulo.
+* **Repositorios de código fuente**
+    - Lista todos los reposito código fuente de esta solución. Los repositorios de otros proyectos necesarios serán listados en la sección **Documentación de Recursos Necesarios**
 
 * **Documentación de la Arquitectura**
     - Arquitectura de la solucion : Deployment Diagram  por funcionalidad
