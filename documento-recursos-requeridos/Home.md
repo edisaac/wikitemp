@@ -15,7 +15,7 @@ El proyecto del api se encuentra en :
 
 [https://bitbucket.org/utecsup/utec-aplicaciones/wiki/netsuite-apps/comercial-api-v2/Home](https://bitbucket.org/utecsup/utec-aplicaciones/wiki/netsuite-apps/comercial-api-v2/Home)
 
-## Base de Datos
+## Base de Datos Principal
 
 Este proyecto usa el esquema FGH de la base de datos conocida como EDU.
 
@@ -30,6 +30,13 @@ Para poder subir fotos de alumnos, se usa el servidor FTP .... el cual ...
 La info de este server se encuentra en
 
 [https://bitbucket.org/utecsup/utec-aplicaciones/wiki/netsuite-apps/comercial-api-v2/Home](https://bitbucket.org/utecsup/utec-aplicaciones/wiki/netsuite-apps/comercial-api-v2/Home)
+
+## Google Drive
+
+
+## Base de Datos de Integracion Mysql
+
+## Etc
 
 
 # Colaboradores
