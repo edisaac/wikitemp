@@ -47,6 +47,7 @@ Este modulo es el encargado de defender la data de los usuarios lorem ispon espu
     - Por cada **funcionalidad** descrita en el primer punto se listan todas las reglas de negocio. El formato sera un excel con 2 columnas:
         - nombre_regla
         - descripcion_regla.
+    - Esto sería el punto de partida para aclarar controversias  o ddas como : "Si el promedio ponderado es menor a 15, no debe egresar o si ???"
 
 * **Proyectos Asociados(By Coordinador)**
     - Documentación funcional creada por los coordinadores
